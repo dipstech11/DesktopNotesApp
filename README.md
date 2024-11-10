@@ -28,3 +28,4 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 ```
+test
